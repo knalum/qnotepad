@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
     //a.setStyle(QStyleFactory::create("osx"));
 
     MainWindow w;
-    w.setWindowTitle("App2");
+    w.setWindowTitle("qnotepad");
     w.show();
     return a.exec();
 }
